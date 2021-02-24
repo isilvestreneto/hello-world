@@ -1,7 +1,11 @@
-# hello-world
+# α ¦ :globe_with_meridians:
+## codigo atlas
+### Ivan Silvestre
+_Front-End Developer Apprentice_
 
-Hi guys!
+I'm learning this whole ***dev world***, so take it easy.
 
-Ivan here. I'm trying to learn some new stuffs and I choose dev.
-
-Listen to the new Kali Uchis' album, 'Sin Miedo (del Amor y Otros Demonios)'. ♥
+**Contact**
+* E-mail: isilvestreneto@gmail.com
+* Instagram: @[codigoatlas](https://instagram.com/codigoatlas)
+* Twitter: @[codigoatlas](https://twitter.com/codigoatlas)
